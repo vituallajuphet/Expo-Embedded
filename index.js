@@ -3,6 +3,9 @@
       return;
     }
   
+
+    alert(1)
+
     var ExpoSnack = {
       append: function(container, options) {
         options = options || {};
